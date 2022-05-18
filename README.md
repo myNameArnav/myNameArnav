@@ -4,4 +4,4 @@
 
 also, 
 
-![stats](https://github-readme-stats.vercel.app/api?username=mynamearnav&show_icons=true&theme=react)
+![stats](https://github-readme-stats.vercel.app/api?username=mynamearnav&show_icons=true&theme=dark)
